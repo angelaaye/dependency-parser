@@ -1,4 +1,4 @@
-# deptrans
+# dependency-parser
 
 This repository contains code for a neural-network based dependency parser. The parser contains three primary transitions: shift, right-arc and left-arc. 
 
